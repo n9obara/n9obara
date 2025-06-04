@@ -1,0 +1,169 @@
+ .parte2{
+border:  px   solid   rgb(224, 91, 207);
+height: 200px;
+width: 350px;
+background-color: rgb(212, 168, 238);
+}
+    .parte1{
+    display: flex;
+    gap: 25px;
+   margin-left: 20px;
+   margin-top: 10px;
+    }
+        .parte3{
+        background-color: rgb(224, 110, 205);
+        height: 55px;
+        width: 350px;
+        gap: 25px;
+        }
+            .imagen{
+            width: 80px;
+            height: 80px;
+            border-radius: 100px;
+            margin: 10px;
+            }
+                .dave{
+
+                    color: white;
+                    font-size: 20px;
+                    margin-top: -10px;
+                }
+                    .ubi{
+                    width: 10px;
+                    }
+                        .ubicacion{
+                            color: white;
+                            margin-top: -10px;
+                            font-size: 10px;
+                            font-family: sans-serif;
+
+                        } 
+
+
+                        .gui{
+
+                            width: 10px;
+
+
+                        }
+
+                        .engra{
+
+                            width: 10px;
+
+
+
+                        }
+                        .perro{
+                            display: flex;
+                            align-items: center;
+                            justify-content: space-between;
+                            margin: auto;
+                            font-family: sans-serif;
+                            }
+                                .perro2{
+                                margin: auto;
+                                }
+                                    .perro3{
+                                    display: flex;
+                                    align-items: center;
+                                    justify-content: space-between;
+                            
+                                    gap: 25px;
+                                    }
+                                        .perro{
+                                        background-color: rgb(240, 102, 228);
+                                        border: solid rgb(0, 0, 0) ;
+                                        border-radius: 10px;
+                            
+                            
+                                        }
+                            
+                                        .button{
+                                            background-color: black;
+                                            color: aliceblue;
+                            
+                                            
+                                        }
+                                        .mono{
+                                            background-color: black;
+                                            color: white;
+                                            border-radius: 3px;
+                                        
+                                        }
+                                        .mono1{
+                                            background-color: black;
+                                            color: white;
+                                            border-radius: 3px;
+                                        
+                                        }
+                                        .munardo{
+                                            background-color: black;
+                                            color: white;
+                                            border-radius: 3px;
+                                        
+}
+
+ .nya{
+
+    background-color: rgb(214, 111, 218);
+    height: 50px;
+    width: 220px;
+    gap: 25px;
+
+ }   
+    .nya2{
+        border:  px   solid   rgb(0, 0, 0);
+        height: 80px;
+        width: 220px;
+        background-color: black;
+        color: white;
+        }        
+        
+.puro{
+color: white;
+font-size: 14px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}   
+
+
+.pepe{
+    background-color: rgb(233, 78, 186);
+    height: 50px;
+    width: 220px;
+    gap: 25px;
+
+
+}
+
+.popi{
+
+    border:  px   solid   rgb(0, 0, 0);
+    height: 180px;
+    width: 220px;
+    background-color: black;
+    color: white;
+    }        
+
+
+    .ñaña{
+        background-color: rgb(230, 76, 222);
+        height: 50px;
+        width: 350px;
+        gap: 25px;
+    
+    
+    }
+    .ñiñi{
+
+        border:  px   solid   rgb(0, 0, 0);
+        height: 180px;
+        width: 350px;
+        background-color: black;
+        color: white;
+        }        
+
+
+
+                        
